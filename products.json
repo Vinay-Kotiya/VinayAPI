@@ -1,0 +1,66 @@
+[
+  {
+    "name": "iPhone 15 Pro",
+    "price": 999.99,
+    "featured": true,
+    "rating": 4.8,
+    "createdAt": "2024-10-01T12:00:00Z",
+    "company": "apple"
+  },
+  {
+    "name": "samsung Galaxy S24",
+    "price": 849.99,
+    "featured": true,
+    "rating": 4.7,
+    "createdAt": "2024-09-15T14:30:00Z",
+    "company": "samsung"
+  },
+  {
+    "name": "dell XPS 13",
+    "price": 1299.99,
+    "featured": false,
+    "rating": 4.6,
+    "createdAt": "2024-08-20T10:00:00Z",
+    "company": "dell"
+  },
+  {
+    "name": "mi 11 Ultra",
+    "price": 749.99,
+    "featured": false,
+    "rating": 4.5,
+    "createdAt": "2024-07-25T09:30:00Z",
+    "company": "mi"
+  },
+  {
+    "name": "MacBook Pro 16-inch",
+    "price": 2399.99,
+    "featured": true,
+    "rating": 4.9,
+    "createdAt": "2024-10-05T15:00:00Z",
+    "company": "apple"
+  },
+  {
+    "name": "samsung Galaxy Tab S9",
+    "price": 699.99,
+    "featured": false,
+    "rating": 4.4,
+    "createdAt": "2024-09-01T16:00:00Z",
+    "company": "samsung"
+  },
+  {
+    "name": "dell Inspiron 15",
+    "price": 749.99,
+    "featured": false,
+    "rating": 4.2,
+    "createdAt": "2024-08-10T11:15:00Z",
+    "company": "dell"
+  },
+  {
+    "name": "mi Smart Band 8",
+    "price": 59.99,
+    "featured": true,
+    "rating": 4.8,
+    "createdAt": "2024-09-10T18:00:00Z",
+    "company": "mi"
+  }
+]
